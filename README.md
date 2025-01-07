@@ -1,2 +1,5 @@
 # All-in-one-Dorks
-this repository made to help me All Dorking repositories find in one location 
+I Made this Dorking repo for almost all Dorks in one place
+To help me my bug bounty hunting Journey.
+I search many more sources and find lots of dorks and put it at one place here.
+             Thanks...........
